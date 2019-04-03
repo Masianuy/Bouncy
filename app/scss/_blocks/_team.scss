@@ -1,0 +1,24 @@
+.team {
+	margin: 0 auto;
+	width: 100%;
+	padding: 0 98px;
+	text-align: center;
+}
+
+.team__content {
+	margin: 0 auto;
+	margin-top: 72px;
+	width: 500px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.team__subtitle {
+	margin-bottom: 23px;
+}
+
+.team__text {
+	margin-bottom: 60px;
+	padding: 0 10px;
+}

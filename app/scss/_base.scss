@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0 auto;
+	font-family: $font-family--main;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.logo {
+	font-family: $font-family--logo;
+	font-size: $font-size--logo;
+	font-weight: $font-weight--logo;
+	text-transform: uppercase;
+}
+
+.link {
+	font-family: $font-family--link;
+	font-size: $font-size--link;
+	font-weight: $font-weight--link;
+	line-height: $line-height--link;
+}
+
+.content {
+	font-family: "Source Sans Pro", Geneva, sans-serif;
+}
+
+.subtitle {
+	font-family: $font-family--subtitle;
+	font-size: $font-size--subtitle;
+	font-weight: $font-weight--subtitle;
+	line-height: $line-height--subtitle;
+	letter-spacing: $letter-spacing--subtitle;
+	color: $color--subtitle;
+	text-transform: uppercase;
+}
+
+.text {
+	font-family: $font-family--text;
+	font-size: $font-size--text;
+	font-weight: $font-weight--text;
+	line-height: $line-height--text;
+	letter-spacing: $letter-spacing--text;
+	color: $color;
+}

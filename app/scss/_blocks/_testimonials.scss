@@ -1,0 +1,24 @@
+.testimonials {
+	margin: 0 auto;
+	width: 100%;
+	padding: 0 98px 55px;
+	text-align: center;
+	background-color: #f3f3f3;
+}
+
+.testimonials__content {
+	margin: 0 auto;
+	padding: 70px 0 57px;
+	width: 500px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.testimonials__subtitle {
+	margin-bottom: 27px;
+}
+
+.testimonials__text {
+	padding: 0 10px;
+}
